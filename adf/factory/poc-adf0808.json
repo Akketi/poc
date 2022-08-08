@@ -1,0 +1,9 @@
+{
+	"name": "poc-adf0808",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bab837b-eee6-4b42-ad8f-54b60f63874b",
+		"tenantId": "e714ef31-faab-41d2-9f1e-e6df4af16ab8"
+	}
+}
