@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "poc-adf0808"
+		},
+		"ls_adls_sink_files_accountKey": {
+			"value": ""
+		},
+		"ls_blob_config_connectionString": {
+			"value": ""
+		},
+		"ls_adls_sink_files_properties_typeProperties_url": {
+			"value": "https://pocsa0808.dfs.core.windows.net/"
+		}
+	}
+}
